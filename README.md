@@ -1,4 +1,4 @@
-# Webpack Starter
+# Todo App
 
 Esta es la aplicación que se construyo en el curso de JavaScript de Fernando Herrera
 
